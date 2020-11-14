@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_cmpreflayout.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/cmpreflayout.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_drawer.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_my_activity_main.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/my_activity_main.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_spnocountmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/spnocountmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_my_spmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/my_spmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_exercisemenu_kgs.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/exercisemenu_kgs.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_spmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/spmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_changeplan.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/changeplan.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_fillingandhealthymenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/fillingandhealthymenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_spexercisemenu_lbs.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/spexercisemenu_lbs.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_soundcloud.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/soundcloud.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_spexercisemenu_kgs.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/spexercisemenu_kgs.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_borderlines.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/borderlines.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_help_outline_black_48dp.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xxxhdpi/ic_help_outline_black_48dp.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_dailymenu_cm.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/dailymenu_cm.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_twitter.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/twitter.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_foodlistmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/foodlistmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_howto.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/howto.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_dailymenu_feet.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/dailymenu_feet.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_feetheightpreflayout.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/feetheightpreflayout.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_spzeropointmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/spzeropointmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_foodmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/foodmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_google.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/google.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_spfoodlistmenu.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/spfoodlistmenu.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_exercisemenu_lbs.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/exercisemenu_lbs.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_facebook.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/facebook.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/layout_help_layout.xml.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/layout/help_layout.xml"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable_youtube.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable/youtube.png"
+    },
+    {
+        "merged": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bennycoyle/Documents/workspace/TrackingAssistantStudio/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

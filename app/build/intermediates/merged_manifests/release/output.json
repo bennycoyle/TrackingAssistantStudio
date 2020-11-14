@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.bc.navweightwatchers",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 30,
+        "versionName": "1.30",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.bc.navweightwatchers",
+        "split": "",
+        "minSdkVersion": "14"
+      }
+    }
+  ]
+}
